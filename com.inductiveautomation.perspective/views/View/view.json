@@ -878,6 +878,23 @@
           ]
         },
         "type": "ia.chart.xy"
+      },
+      {
+        "meta": {
+          "name": "SimpleGauge"
+        },
+        "position": {
+          "height": 175,
+          "width": 300,
+          "x": 236,
+          "y": 579
+        },
+        "props": {
+          "style": {
+            "classes": []
+          }
+        },
+        "type": "ia.chart.simple-gauge"
       }
     ],
     "meta": {
