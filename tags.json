@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "tagType": "Provider",
+  "tags": [
+    {
+      "name": "New Folder",
+      "tagType": "Folder",
+      "tags": [
+        {
+          "valueSource": "memory",
+          "name": "New Tag",
+          "tagType": "AtomicTag"
+        },
+        {
+          "valueSource": "derived",
+          "name": "New Tag 2",
+          "tagType": "AtomicTag"
+        }
+      ]
+    },
+    {
+      "name": "_types_",
+      "tagType": "Folder"
+    }
+  ]
+}
