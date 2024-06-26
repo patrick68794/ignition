@@ -9,13 +9,13 @@
           "name": "Label"
         },
         "position": {
-          "height": 32,
-          "width": 50,
-          "x": 641,
+          "height": 112,
+          "width": 157,
+          "x": 534,
           "y": 390
         },
         "props": {
-          "text": "Label 2 sfss"
+          "text": "Label 2 sfsssdfaw"
         },
         "type": "ia.display.label"
       },
